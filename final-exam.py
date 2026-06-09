@@ -9,7 +9,7 @@ from functools import reduce
 # -----------------------------
 # Page configuration
 st.set_page_config(page_title="ShopEasy Sales & Inventory Dashboard", layout="wide")
-st.title("🐋 ShopEasy Sales & Inventory Management Dashboard")
+st.title("ShopEasy Sales & Inventory Management Dashboard")
 
 # -----------------------------
 # 1. Generate sales dataset (same as before)
