@@ -1,0 +1,81 @@
+﻿product_name,category,quantity_sold,unit_price,date,revenue
+T-shirt,Fashion,4,200,2026-03-25,800
+Notebook,Stationery,8,200,2026-03-31,1600
+T-shirt,Fashion,3,500,2026-05-24,1500
+Notebook,Stationery,8,200,2026-04-03,1600
+Keyboard,Electronics,6,200,2026-03-12,1200
+Jeans,Fashion,6,50,2026-05-13,300
+Pen,Stationery,5,25,2026-05-25,125
+Novel,Books,6,200,2026-06-07,1200
+Laptop,Electronics,3,120,2026-05-04,360
+Monitor,Electronics,9,80,2026-04-30,720
+T-shirt,Fashion,5,25,2026-04-18,125
+Mouse,Electronics,4,25,2026-05-09,100
+Water Bottle,Home,2,50,2026-03-19,100
+Novel,Books,5,50,2026-06-02,250
+Pen,Stationery,7,120,2026-03-18,840
+Backpack,Fashion,3,350,2026-05-30,1050
+Monitor,Electronics,2,120,2026-03-12,240
+Water Bottle,Home,6,350,2026-03-14,2100
+Headphones,Electronics,2,50,2026-04-23,100
+Mouse,Electronics,4,350,2026-04-27,1400
+Backpack,Fashion,8,350,2026-06-05,2800
+Pen,Stationery,9,350,2026-04-19,3150
+Phone,Electronics,2,500,2026-05-02,1000
+Jeans,Fashion,9,120,2026-05-09,1080
+Pen,Stationery,9,200,2026-03-25,1800
+Desk Lamp,Home,1,25,2026-05-20,25
+Sneakers,Fashion,8,25,2026-03-18,200
+Jeans,Fashion,3,25,2026-03-18,75
+Keyboard,Electronics,3,25,2026-03-15,75
+Novel,Books,7,50,2026-04-20,350
+Pen,Stationery,7,25,2026-05-21,175
+Pen,Stationery,2,25,2026-04-27,50
+T-shirt,Fashion,7,350,2026-06-06,2450
+Phone,Electronics,3,120,2026-06-04,360
+Notebook,Stationery,3,25,2026-04-26,75
+Water Bottle,Home,3,25,2026-03-15,75
+Novel,Books,7,500,2026-03-24,3500
+T-shirt,Fashion,9,500,2026-03-25,4500
+Novel,Books,3,500,2026-05-01,1500
+Desk Lamp,Home,4,350,2026-04-02,1400
+T-shirt,Fashion,4,200,2026-04-11,800
+T-shirt,Fashion,3,350,2026-04-07,1050
+Mouse,Electronics,9,200,2026-03-16,1800
+Pen,Stationery,4,350,2026-05-11,1400
+Notebook,Stationery,7,120,2026-06-07,840
+T-shirt,Fashion,1,25,2026-04-06,25
+Water Bottle,Home,9,120,2026-05-26,1080
+Sneakers,Fashion,3,500,2026-05-19,1500
+Jeans,Fashion,9,350,2026-04-16,3150
+Laptop,Electronics,3,50,2026-04-23,150
+Jeans,Fashion,6,25,2026-05-01,150
+Laptop,Electronics,1,50,2026-05-01,50
+Pen,Stationery,7,50,2026-03-13,350
+Laptop,Electronics,5,25,2026-05-05,125
+Laptop,Electronics,1,50,2026-03-12,50
+Pen,Stationery,6,500,2026-03-11,3000
+Keyboard,Electronics,2,200,2026-04-23,400
+Novel,Books,6,500,2026-05-17,3000
+T-shirt,Fashion,8,80,2026-03-27,640
+Backpack,Fashion,6,200,2026-05-19,1200
+Headphones,Electronics,1,25,2026-05-08,25
+Headphones,Electronics,3,120,2026-05-08,360
+Monitor,Electronics,3,50,2026-05-16,150
+Backpack,Fashion,3,120,2026-05-20,360
+Monitor,Electronics,9,25,2026-04-19,225
+T-shirt,Fashion,2,25,2026-03-21,50
+Pen,Stationery,9,25,2026-04-29,225
+T-shirt,Fashion,3,500,2026-03-26,1500
+Novel,Books,9,120,2026-05-09,1080
+Laptop,Electronics,2,25,2026-04-27,50
+Water Bottle,Home,5,200,2026-04-11,1000
+Notebook,Stationery,7,25,2026-03-29,175
+Keyboard,Electronics,4,350,2026-04-12,1400
+Jeans,Fashion,4,80,2026-05-21,320
+Monitor,Electronics,6,120,2026-06-07,720
+Keyboard,Electronics,9,200,2026-03-28,1800
+Water Bottle,Home,2,50,2026-05-03,100
+Keyboard,Electronics,9,120,2026-04-12,1080
+Monitor,Electronics,1,350,2026-03-31,350
+Monitor,Electronics,8,500,2026-05-16,4000
